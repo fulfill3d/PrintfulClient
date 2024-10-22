@@ -2,7 +2,7 @@
 # PrintfulClient
 
 - **Docs**: Visit https://developers.printful.com/docs/ to see the Printful API Docs.
-- 
+
 PrintfulClient is a .NET library designed to interact with the Printful API, providing access to various Printful services such as catalogs, orders, mockups, and more. It includes built-in retry policies and timeout handling, making it reliable for integrating with Printful's API.
 
 ## Table of Contents
